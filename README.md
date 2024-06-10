@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandra Sian
 - 👀 I’m interested in software engineering
-- I am profecient in Javascript,CSS,HTML, SQL and Bootstrap
+- I am profecient in Python, Django, React, Javascript,CSS,HTML, SQL and Bootstrap
 - 🌱 I’m currently learning ruby on rails
 - 💞️ I’m looking to collaborate on on ruby and ruby on rails projects.
 - 📫 How to reach me sandrasian17@gmail.com
